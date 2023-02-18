@@ -73,6 +73,10 @@ span{
     margin-top: 0.8rem;
     font-weight: 500;
 }
+.hero .icon-wrapper a:hover{
+    background-color: #ad39db;
+    color: rgb(85, 0, 128);
+}
 
 @media screen and (max-width: 768px) {
     header nav ul{
